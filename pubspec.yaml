@@ -16,4 +16,4 @@ dependencies:
   chopper: ^4.0.1
   overlay_support: ^1.2.1
   share: ^2.0.4
-  rxdart: ^0.27.1
+  rxdart: ^0.26.0
